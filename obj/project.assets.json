@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kazuk\\source\\repos\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
+      "projectUniqueName": "D:\\GitHub\\pedrapapeltesoura\\PedraPapelTesoura.csproj",
       "projectName": "PedraPapelTesoura",
-      "projectPath": "C:\\Users\\kazuk\\source\\repos\\PedraPapelTesoura\\PedraPapelTesoura.csproj",
+      "projectPath": "D:\\GitHub\\pedrapapeltesoura\\PedraPapelTesoura.csproj",
       "packagesPath": "C:\\Users\\kazuk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kazuk\\source\\repos\\PedraPapelTesoura\\obj\\",
+      "outputPath": "D:\\GitHub\\pedrapapeltesoura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kazuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
